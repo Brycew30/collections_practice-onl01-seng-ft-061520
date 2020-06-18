@@ -26,3 +26,7 @@ def kesha_maker(array)
     word[2] = "$"
   end
 end
+
+def sum_array
+  
+end
