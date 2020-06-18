@@ -50,5 +50,5 @@ def add_s(array)
         s_array << word 
       end
   
-  return_array
+  s_array
 end
