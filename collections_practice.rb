@@ -38,4 +38,5 @@ def sum_array(array)
   array.inject do |int|
     sum + int
   end
+  sum
 end
