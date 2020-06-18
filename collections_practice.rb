@@ -27,6 +27,6 @@ def kesha_maker(array)
   end
 end
 
-def sum_array
+def find_a(array)
   
 end
