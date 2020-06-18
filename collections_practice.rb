@@ -7,3 +7,7 @@ end
 def sort_array_desc(array)
   sort_array_desc = array.sort.reverse
 end
+
+def sort_array_char_count(array)
+  sort_array_char_count = array.sort_by.length
+end
